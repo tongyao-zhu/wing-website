@@ -4,6 +4,10 @@ authors:
 - tongyao
 - chaoming
 - min
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Corresponding author'
 date: '2026-07-01'
 publishDate: '2026-07-27T00:00:00Z'
 publication_types:
@@ -16,5 +20,7 @@ links:
 - name: ACL Anthology
   url: https://aclanthology.org/2026.acl-long.1455/
 url_pdf: https://aclanthology.org/2026.acl-long.1455.pdf
+url_code: https://github.com/tongyao-zhu/query-embedding-mix
+projects: [multilingual-retrieval]
 featured: true
 ---
